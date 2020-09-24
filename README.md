@@ -1,3 +1,3 @@
-## Graduate student with an extensive background in Semiconductors and Software Engineering R&D, currently pursuing research in 3D Scene Reconstruction, Neuro-Symbolic Reasoning, Self-supervised Learning and Multilingual Conversational Question Answering.
+### Graduate student with an extensive background in Semiconductors and Software Engineering R&D, currently pursuing research in 3D Scene Reconstruction, Neuro-Symbolic Reasoning, Self-supervised Learning and Multilingual Conversational Question Answering.
 
-### Research Portfolio: [Link](https://akshayjoshi.tech)
+#### Research Portfolio: [Link](https://akshayjoshi.tech)
