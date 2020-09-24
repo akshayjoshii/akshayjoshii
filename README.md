@@ -1,4 +1,3 @@
-### Hi there 👋
+## Graduate student with an extensive background in Semiconductors and Software Engineering R&D, currently pursuing research in 3D Scene Reconstruction, Neuro-Symbolic Reasoning, Self-supervised Learning and Multilingual Conversational Question Answering.
 
-### I'm Akshay Joshi, a M. Sc Data Science & Artificial Intelligence student at Universität des Saarlandes.
-### My research interests are in the areas of Deep Semi-supervised Learning, Computer Vision and Question Answering Systems.
+### Research Portfolio: [Link](https://akshayjoshi.tech)
