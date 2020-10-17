@@ -4,6 +4,8 @@
 [![Resume](https://img.shields.io/badge/-Resume-orange)](https://akshayjoshi.tech/)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=akshayjoshii.visitor-badge)
 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=akshayjoshii&hide=contribs,prs,issues&count_private=true)](https://github-readme-stats.vercel.app/api?username=akshayjoshii&hide=contribs,prs,issues&count_private=true)
+
 ## About Me
 Graduate student with an extensive background in Semiconductors and Software Engineering R&D, currently pursuing research in 3D Scene Reconstruction, Neuro-Symbolic Reasoning, Self-supervised Learning and Multilingual Conversational Question Answering.
 
