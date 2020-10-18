@@ -1,4 +1,4 @@
-[<img src="https://github.com/akshayjoshii/akshayjoshii/raw/master/assets/captured.gif" alt="Hello" title="Hello"](https://akshayjoshi.tech)
+[<img src="https://github.com/akshayjoshii/akshayjoshii/raw/master/assets/neural_logo.gif" alt="Hello" title="Hello"](https://akshayjoshi.tech)
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/akshayjoshi56/)
