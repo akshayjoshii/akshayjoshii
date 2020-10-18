@@ -11,7 +11,7 @@ Graduate student with an extensive background in Semiconductors and Software Eng
 
 ### GitHub Stats
 <a href="https://github.com/akshayjoshii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayjoshii&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Akshay's Programming Language Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayjoshii&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Akshay's Programming Language Stats" />
 </a>
 <a href="https://github.com/akshayjoshii">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshayjoshii&show_icons=true&line_height=27&hide=contribs,prs,issues&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Akshay's GitHub Stats" />
