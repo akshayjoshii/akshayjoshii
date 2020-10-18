@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm ((Star Scream|Akshay Joshi)|https://akshayjoshi.tech)" title="👋 Hi there! I'm ((Star Scream|Akshay Joshi)|https://akshayjoshi.tech)"/>](https://akshayjoshi.tech)
+[<img src="https://github.com/akshayjoshii/akshayjoshii/raw/master/assets/captured.gif" alt="Hello" title="Hello"](https://akshayjoshi.tech)
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/akshayjoshi56/)
