@@ -20,7 +20,8 @@ Graduate student with an extensive background in Semiconductors and Software Eng
 ### Publications
 |   Publication | Domain  | Contributors    |   Status  |
 |-----------------|---------|-----------------|-----------|
-|   [Dense Art Style Recognition with Self-supervised Ensemble of Auto-Encoding Transformations](https://github.com/akshayjoshii/Deep_Self-Supervised_Art_Style_Recognition)  |   Computer Vision, Self-Supervision |   [Akshay Joshi](https://akshayjoshi.tech/), [Ankit Agrawal](https://github.com/123ankitagr), [Sushmita Nair](https://github.com/sushmita-nair) |   In Progress |
+|   Dense Art Style Recognition with Self-supervised Ensemble of Auto-Encoding Transformations  |   Computer Vision, Self-Supervision |   [Akshay Joshi](https://akshayjoshi.tech/), [Ankit Agrawal](https://github.com/123ankitagr), [Sushmita Nair](https://github.com/sushmita-nair) |   [Link](https://arxiv.org/abs/2012.03377) |
+|   Hybrid Machine Learning Seminar: Learning like humans with Deep Symbolic Networks  |   Computer Vision, Deep Learning, Symbolic AI |   [Akshay Joshi](https://akshayjoshi.tech/) |   [Link](https://github.com/akshayjoshii/learning_like_humans) |
 
 ### Featured Projects
 |   Projects    |   Tech Stack  |   Contributors    |
