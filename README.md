@@ -28,6 +28,7 @@ Graduate student with an extensive background in Semiconductors and Software Eng
 |   Projects    |   Tech Stack  |   Contributors    |
 |---------------|---------------|-------------------|
 |   [Research Portfolio Website](https://github.com/akshayjoshii/akshayjoshii.github.io)    |   Hugo, HTML, CSS, JS, Markdown, Python, Netlify, Cloudflare, CI/CD   |   [Akshay Joshi](https://akshayjoshi.tech/)   |
+|   [Socket Programming - File Transfer Simulation with Integrity Check](https://github.com/akshayjoshii/socket_programming)    |   Python, Hashlib, Socket Programming, TCP   |   [Akshay Joshi](https://akshayjoshi.tech/), Jan Stieling   |
 |   [Covid-19 Tweets Sentiment & Exploratory Data Analysis with LSTM and Denoising Autoencoder](https://github.com/akshayjoshii/COVID19-Tweet-Sentiment-Analysis-and-EDA)   |   Python, NLTK, NumPy, Scikit-learn, XGBoost, PyTorch, Docker |   [Akshay Joshi](https://akshayjoshi.tech/)   |
 |   [Event Driven Pedestrian & Vehicle Detection](https://github.com/akshayjoshii/Event-Driven-Pedestrian-Vehicle-Detection)  |   Python, YOLO, OpenCV, NumPy, Docker, TQDM   |   [Akshay Joshi](https://akshayjoshi.tech/), [Poojitha Vijayanarasimha](https://github.com/Poojithavijay) |
 |   [Open Domain Question Answering with End-to-End Memory Networks](https://github.com/akshayjoshii/Open_Domain_Question_Answering)    |   Python, Keras, NLTK, Deep Neural Networks, NumPy, Knowledge Graphs  |   [Akshay Joshi](https://akshayjoshi.tech/)   |
