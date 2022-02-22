@@ -2,11 +2,11 @@
 
 
 ## About Me
-Graduate student with an extensive background in Semiconductor & Software Engineering R&D, currently pursuing research in Visual Scene Understanding, Explainable Neural Language Modelling with Linear Self-Attention & Automatic Speech Recognition for Low-resource Languages at Universität des Saarlandes & DFKI.
+Graduate student with an extensive background in Semiconductor & Software Engineering R&D, currently pursuing research in Self-supervised Learning, Visual Scene Understanding, and Multimodal Representation Learning at Universität des Saarlandes & DFKI.
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/akshayjoshi56/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshayjoshi56/)
 [![Portfolio](https://img.shields.io/badge/Research%20Portfolio-%20-red)](https://akshayjoshi.tech/)
-[![Résumé](https://img.shields.io/badge/Résumé%2FCV-%20-brightgreen)](https://akshayjoshi.tech/files/Akshay_CV.pdf)
+[![Résumé](https://img.shields.io/badge/Résumé%2FCV-%20-brightgreen)](http://cv.akshayjoshi.tech)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%20-blue)](https://www.kaggle.com/akshay560)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=akshayjoshii.visitor-badge)
 
