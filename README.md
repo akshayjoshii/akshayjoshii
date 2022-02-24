@@ -37,6 +37,6 @@ Graduate student with an extensive background in Semiconductor & Software Engine
 
 
 ### Research Portfolio
-[![Akshay](site_screenshot.png)](https://akshayjoshi.tech)
+<!-- [![Akshay](site_screenshot.png)](https://akshayjoshi.tech) -->
 
 ---
