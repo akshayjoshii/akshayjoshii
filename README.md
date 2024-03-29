@@ -1,22 +1,9 @@
-[<img src="https://github.com/akshayjoshii/akshayjoshii/raw/master/assets/neural_logo.gif" alt="Hello" title="Hello"/>](https://akshayjoshi.tech)
+[<img src="https://github.com/akshayjoshii/akshayjoshii/raw/master/assets/neural_logo.gif" alt="Welcome to Akshay Joshi's Website!" title="Hello"/>](https://akjo.tech)
 
 
 ## About Me
-Graduate student with an extensive background in Semiconductor & Software Engineering R&D, currently pursuing research in Self-supervised Learning, Visual Scene Understanding, and Multimodal Representation Learning at Universität des Saarlandes & DFKI.
+I train large neural networks in the fields of Self-supervised Learning, Vision-Language Models, and Multimodal Representation Learning.
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshayjoshi56/)
-[![Portfolio](https://img.shields.io/badge/Research%20Portfolio-%20-red)](https://akshayjoshi.tech/)
-[![Résumé](https://img.shields.io/badge/Résumé%2FCV-%20-brightgreen)](http://cv.akshayjoshi.tech)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%20-blue)](https://www.kaggle.com/akshay560)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=akshayjoshii.visitor-badge)
-
-### GitHub Stats
-<!-- <a href="https://github.com/akshayjoshii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayjoshii&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Akshay's Programming Language Stats" />
-</a> -->
-<a href="https://github.com/akshayjoshii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshayjoshii&show_icons=true&line_height=27&hide=contribs,prs,issues&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Akshay's GitHub Stats" />
-</a>
 
 ### Publications
 |   Publication | Domain  | Contributors    |   Status  |
@@ -35,8 +22,15 @@ Graduate student with an extensive background in Semiconductor & Software Engine
 |   [Spoken Language Recognition and Exploratory Data Analysis](https://github.com/akshayjoshii/Speech-Recognition) |   Python, Scikit-learn, NumPy, MatplotLib, SciPy  |   [Akshay Joshi](https://akshayjoshi.tech/)   |
 |   [Multi-stage Information Retrieval & Ranking System](https://github.com/akshayjoshii/Statistical-NLP-Information-Retrieval-Project)  |  Python, NLTK, BeautifulSoup4, LXML, BM25, NumPy |   [Akshay Joshi](https://akshayjoshi.tech/), [Ankit Agrawal](https://github.com/123ankitagr)   |
 
+### Stats
+<!-- <a href="https://github.com/akshayjoshii">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayjoshii&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Akshay's Programming Language Stats" />
+</a> -->
+<a href="https://github.com/akshayjoshii">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshayjoshii&show_icons=true&line_height=27&hide=contribs,prs,issues&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Akshay's GitHub Stats" />
+</a>
 
-### Research Portfolio
-<!-- [![Akshay](site_screenshot.png)](https://akshayjoshi.tech) -->
+<!-- ### Research Portfolio
+[![Akshay](site_screenshot.png)](https://akshayjoshi.tech) -->
 
 ---
